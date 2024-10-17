@@ -1,6 +1,6 @@
 # React + Vite application for displaying recipes.
 
-[DEMO LINK](https://anastasiiahombalevska.github.io/recipe-app/)
+[DEMO LINK](https://anastasiiahombalevska.github.io/recipe-app2/)
 
 ## Table of contents
 
